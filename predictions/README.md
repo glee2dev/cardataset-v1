@@ -6,6 +6,6 @@
 
 
 ## Sample videos of the final prediction
-![image](https://user-images.githubusercontent.com/93869537/146628619-492b740c-e9e1-4733-bc28-4ec199fdd236.png)
+![image](https://github.com/glee2dev/cardataset-v1/blob/main/predictions/result_videos/video4_inference_2.gif?raw=true)
 
 
