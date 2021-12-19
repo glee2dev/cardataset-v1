@@ -13,7 +13,7 @@ If you have any difficulty downloading the dataset, pth file, or using the model
 
 ## Contents
 ### Car_Dataset
-link to the custom dataset, annotations informations & general information related to the dataset.
+link to the custom dataset, annotations informations & general information related to the dataset. \
 All the car images are 1024 x 1024 (data preprocessing was done for all the images) 
 
 
