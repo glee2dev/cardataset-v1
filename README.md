@@ -35,3 +35,15 @@ prediction results of the model in both images & videos
 ### pth
 link to pth file created after the model training (ResNet-50 FPN, VGG-16, MobileNetV3 Large)
 
+
+
+## Reference
+- Train your own object detector with Faster-RCNN & PyTorch // Johannes Schmidt \
+https://johschmidt42.medium.com/train-your-own-object-detector-with-faster-rcnn-pytorch-8d3c759cfc70
+
+- Custom Object Detection using PyTorch Faster RCNN // Sovit Ranjan Rath \
+https://debuggercafe.com/custom-object-detection-using-pytorch-faster-rcnn/
+
+- TorchVision을 사용한 Faster R-CNN(3) // Hyungjo Byun \
+https://hyungjobyun.github.io/machinelearning/FasterRCNN3/
+
