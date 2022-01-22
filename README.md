@@ -1,7 +1,5 @@
-# CS492 Final Project repository
-## Vehicle Design Feature Extractor // Team 35 Gyunpyo Lee
-This repository is dedicated to CS492I Final project done in 2021. \
-Faster R-CNN on custom dataset (car design related) 
+# Vehicle Design Feature Extractor // 
+This project is Faster R-CNN on custom dataset (car design related) 
 still the beta version of the datset, the dataset is going to be developed further. 
 
 ![image](https://github.com/glee2dev/cardataset-v1/blob/main/predictions/result_videos/video4_inference_2.gif?raw=true)
